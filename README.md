@@ -1,7 +1,7 @@
 # 💫About Me :
 Welcome to my page!
-    🔭  I'm Cuong. I'm currently studying at University of Information Technology.
-    💬  You can contact me at thecuongyt3htk@gmail.com
+ - 🔭  Hello, I'm Cuong. I'm currently studying at University of Information Technology.
+ - 💬  You can contact me at thecuongyt3htk@gmail.com
  
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/thecuong#1911) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cuong.the.50767984/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/usernam3764f/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/CngNguynNgTh1) 
